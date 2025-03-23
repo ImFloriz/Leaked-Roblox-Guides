@@ -49,37 +49,13 @@ Rank Abilities
 These are the rank requirements for selection a role through role selection. You may be upgraded to a higher role if its unfilled at the start of training. 
 
 
-	Assistant
-	Trainer
-	Co-Host
-	Host
-	Shift Leader
-	✓
-	
-
-	
-
-	
-
-	Supervisor
-	✓
-	✓
-	
-
-	
-
-	Assistant Manager
-	✓
-	✓
-	✓
-	
-
-	General Manager
-	✓
-	✓
-	✓
-	✓
+-|-|-|-|
+Role|Assistant|Trainer|Co-Host|Host
+Shift Leader|✓|✖|✖|
+Supervisor|✓|✓|✖|✖|
+Assistant Manager|✓|✓|✓|✖
+General Manager|✓|✓|✓|✓
 	
 
 Server Size
-Training servers hold 125 people.
+- Training servers hold 125 people.
