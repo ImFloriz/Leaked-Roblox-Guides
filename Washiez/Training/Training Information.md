@@ -55,7 +55,7 @@ Roles can no longer be claimed.
 | ---- | --------- | ------- | ------- | ---- |
 Shift Leader|✓|✓|✖|✖
 Supervisor|✓|✓|✖|✖|
-Assistant Manager|✓|✓|✓|✖
+Assistant Manager|✓|✓|✓|✓
 General Manager|✓|✓|✓|✓
 	
 
