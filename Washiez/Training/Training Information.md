@@ -46,7 +46,8 @@ Roles can no longer be claimed.
 - The Junior Operators have the updated cafe and drive-thru system.
 - The Senior Operators have the updated crate system.
 - Keep the Entry Team on the benches to be promoted. There are no promotion lines. 
-- Rank Abilities
+
+# Rank Abilities
 - These are the rank requirements for selection a role through role selection. You may be upgraded to a higher role if its unfilled at the start of training. 
 
 
