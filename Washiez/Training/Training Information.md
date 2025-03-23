@@ -53,8 +53,8 @@ Roles can no longer be claimed.
 
 | Role | Assistant | Trainer | Co-Host | Host |
 | ---- | --------- | ------- | ------- | ---- |
-Shift Leader|✓|✓|✖|✖
-Supervisor|✓|✓|✖|✖|
+Shift Leader|✓|✓|-|-
+Supervisor|✓|✓|-|-|
 Assistant Manager|✓|✓|✓|✓
 General Manager|✓|✓|✓|✓
 	
